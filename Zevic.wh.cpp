@@ -1,6 +1,6 @@
 // ==WindhawkMod==
 // @id              zevic-ambient-edge-illumination
-// @name            ZEVIC — Ambient Screen Edge Glow
+// @name            Ambient Screen Edge Glow
 // @description     Sony Bravia-inspired ambient edge illumination with smooth orbiting light beams.
 // @version         1.1.0
 // @author          Abdul Ahad
